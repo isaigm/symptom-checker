@@ -1,0 +1,526 @@
+{
+  "itching": {
+    "idx": 0,
+    "traduccion": "Comezón "
+  },
+  "skin_rash": {
+    "idx": 1,
+    "traduccion": "Erupción en la piel "
+  },
+  "nodal_skin_eruptions": {
+    "idx": 2,
+    "traduccion": "Erupciones nodulares en la piel "
+  },
+  "continuous_sneezing": {
+    "idx": 3,
+    "traduccion": "Estornudos continuos"
+  },
+  "shivering": {
+    "idx": 4,
+    "traduccion": "Escalofríos"
+  },
+  "chills": {
+    "idx": 5,
+    "traduccion": "Temblor"
+  },
+  "joint_pain": {
+    "idx": 6,
+    "traduccion": "Dolor articular"
+  },
+  "stomach_pain": {
+    "idx": 7,
+    "traduccion": "Dolor de estómago"
+  },
+  "acidity": {
+    "idx": 8,
+    "traduccion": "Acidez"
+  },
+  "ulcers_on_tongue": {
+    "idx": 9,
+    "traduccion": "Úlceras en la lengua"
+  },
+  "muscle_wasting": {
+    "idx": 10,
+    "traduccion": "Desgaste muscular"
+  },
+  "vomiting": {
+    "idx": 11,
+    "traduccion": "Vómitos"
+  },
+  "burning_micturition": {
+    "idx": 12,
+    "traduccion": "Ardor al orinar"
+  },
+  "spotting_urination": {
+    "idx": 13,
+    "traduccion": "Manchas de orina"
+  },
+  "fatigue": {
+    "idx": 14,
+    "traduccion": "Fatiga"
+  },
+  "weight_gain": {
+    "idx": 15,
+    "traduccion": "Aumento de peso"
+  },
+  "anxiety": {
+    "idx": 16,
+    "traduccion": "Ansiedad"
+  },
+  "cold_hands_and_feets": {
+    "idx": 17,
+    "traduccion": "Manos y pies fríos"
+  },
+  "mood_swings": {
+    "idx": 18,
+    "traduccion": "Cambios de humor"
+  },
+  "weight_loss": {
+    "idx": 19,
+    "traduccion": "Pérdida de peso"
+  },
+  "restlessness": {
+    "idx": 20,
+    "traduccion": "Inquietud"
+  },
+  "lethargy": {
+    "idx": 21,
+    "traduccion": "Letargo"
+  },
+  "patches_in_throat": {
+    "idx": 22,
+    "traduccion": "Manchas en la garganta"
+  },
+  "irregular_sugar_level": {
+    "idx": 23,
+    "traduccion": "Nivel irregular de azúcar"
+  },
+  "cough": {
+    "idx": 24,
+    "traduccion": "Tos"
+  },
+  "high_fever": {
+    "idx": 25,
+    "traduccion": "Fiebre alta"
+  },
+  "sunken_eyes": {
+    "idx": 26,
+    "traduccion": "Ojos hundidos"
+  },
+  "breathlessness": {
+    "idx": 27,
+    "traduccion": "Falta de aliento"
+  },
+  "sweating": {
+    "idx": 28,
+    "traduccion": "Sudoración"
+  },
+  "dehydration": {
+    "idx": 29,
+    "traduccion": "Deshidratación"
+  },
+  "indigestion": {
+    "idx": 30,
+    "traduccion": "Indigestión"
+  },
+  "headache": {
+    "idx": 31,
+    "traduccion": "Dolor de cabeza"
+  },
+  "yellowish_skin": {
+    "idx": 32,
+    "traduccion": "Piel amarillenta"
+  },
+  "dark_urine": {
+    "idx": 33,
+    "traduccion": "Orina oscura"
+  },
+  "nausea": {
+    "idx": 34,
+    "traduccion": "Náuseas"
+  },
+  "loss_of_appetite": {
+    "idx": 35,
+    "traduccion": "Pérdida del apetito"
+  },
+  "pain_behind_the_eyes": {
+    "idx": 36,
+    "traduccion": "Dolor detrás de los ojos"
+  },
+  "back_pain": {
+    "idx": 37,
+    "traduccion": "Dolor de espalda"
+  },
+  "constipation": {
+    "idx": 38,
+    "traduccion": "Estreñimiento"
+  },
+  "abdominal_pain": {
+    "idx": 39,
+    "traduccion": "Dolor abdominal"
+  },
+  "diarrhoea": {
+    "idx": 40,
+    "traduccion": "Diarrea"
+  },
+  "mild_fever": {
+    "idx": 41,
+    "traduccion": "Fiebre leve"
+  },
+  "yellow_urine": {
+    "idx": 42,
+    "traduccion": "Orina amarilla"
+  },
+  "yellowing_of_eyes": {
+    "idx": 43,
+    "traduccion": "Ojos amarillentos"
+  },
+  "acute_liver_failure": {
+    "idx": 44,
+    "traduccion": "Insuficiencia hepática aguda"
+  },
+  "fluid_overload": {
+    "idx": 45,
+    "traduccion": "Sobrecarga de líquidos"
+  },
+  "swelling_of_stomach": {
+    "idx": 46,
+    "traduccion": "Hinchazón del estómago"
+  },
+  "swelled_lymph_nodes": {
+    "idx": 47,
+    "traduccion": "Ganglios linfáticos inflamados"
+  },
+  "malaise": {
+    "idx": 48,
+    "traduccion": "Malestar general"
+  },
+  "blurred_and_distorted_vision": {
+    "idx": 49,
+    "traduccion": "Visión borrosa y distorsionada"
+  },
+  "phlegm": {
+    "idx": 50,
+    "traduccion": "Flema"
+  },
+  "throat_irritation": {
+    "idx": 51,
+    "traduccion": "Irritación de la garganta"
+  },
+  "redness_of_eyes": {
+    "idx": 52,
+    "traduccion": "Enrojecimiento de los ojos"
+  },
+  "sinus_pressure": {
+    "idx": 53,
+    "traduccion": "Presión sinusal"
+  },
+  "runny_nose": {
+    "idx": 54,
+    "traduccion": "Nariz congestionada"
+  },
+  "congestion": {
+    "idx": 55,
+    "traduccion": "Congestión"
+  },
+  "chest_pain": {
+    "idx": 56,
+    "traduccion": "Dolor de pecho"
+  },
+  "weakness_in_limbs": {
+    "idx": 57,
+    "traduccion": "Debilidad en las extremidades"
+  },
+  "fast_heart_rate": {
+    "idx": 58,
+    "traduccion": "Latidos rápidos del corazón"
+  },
+  "pain_during_bowel_movements": {
+    "idx": 59,
+    "traduccion": "Dolor al evacuar"
+  },
+  "pain_in_anal_region": {
+    "idx": 60,
+    "traduccion": "Dolor en el área anal"
+  },
+  "bloody_stool": {
+    "idx": 61,
+    "traduccion": "Heces con sangre"
+  },
+  "irritation_in_anus": {
+    "idx": 62,
+    "traduccion": "Irritación en el ano"
+  },
+  "neck_pain": {
+    "idx": 63,
+    "traduccion": "Dolor de cuello"
+  },
+  "dizziness": {
+    "idx": 64,
+    "traduccion": "Mareos"
+  },
+  "cramps": {
+    "idx": 65,
+    "traduccion": "Calambres"
+  },
+  "bruising": {
+    "idx": 66,
+    "traduccion": "Moretones"
+  },
+  "obesity": {
+    "idx": 67,
+    "traduccion": "Obesidad"
+  },
+  "swollen_legs": {
+    "idx": 68,
+    "traduccion": "Piernas hinchadas"
+  },
+  "swollen_blood_vessels": {
+    "idx": 69,
+    "traduccion": "Vasos sanguíneos hinchados"
+  },
+  "puffy_face_and_eyes": {
+    "idx": 70,
+    "traduccion": "Cara y ojos hinchados"
+  },
+  "enlarged_thyroid": {
+    "idx": 71,
+    "traduccion": "Tiroides agrandada"
+  },
+  "brittle_nails": {
+    "idx": 72,
+    "traduccion": "Uñas quebradizas"
+  },
+  "swollen_extremeties": {
+    "idx": 73,
+    "traduccion": "Extremidades inflamadas"
+  },
+  "excessive_hunger": {
+    "idx": 74,
+    "traduccion": "Hambre excesiva"
+  },
+  "extra_marital_contacts": {
+    "idx": 75,
+    "traduccion": "Contactos extramaritales"
+  },
+  "drying_and_tingling_lips": {
+    "idx": 76,
+    "traduccion": "Labios secos y hormigueantes"
+  },
+  "slurred_speech": {
+    "idx": 77,
+    "traduccion": "Dificultad para hablar"
+  },
+  "knee_pain": {
+    "idx": 78,
+    "traduccion": "Dolor de rodillas"
+  },
+  "hip_joint_pain": {
+    "idx": 79,
+    "traduccion": "Dolor en la cadera"
+  },
+  "muscle_weakness": {
+    "idx": 80,
+    "traduccion": "Debilidad muscular"
+  },
+  "stiff_neck": {
+    "idx": 81,
+    "traduccion": "Cuello rígido"
+  },
+  "swelling_joints": {
+    "idx": 82,
+    "traduccion": "Articulaciones inflamadas"
+  },
+  "movement_stiffness": {
+    "idx": 83,
+    "traduccion": "Rigidez en los movimientos"
+  },
+  "spinning_movements": {
+    "idx": 84,
+    "traduccion": "Movimientos giratorios"
+  },
+  "loss_of_balance": {
+    "idx": 85,
+    "traduccion": "Pérdida de equilibrio"
+  },
+  "unsteadiness": {
+    "idx": 86,
+    "traduccion": "Inestabilidad"
+  },
+  "weakness_of_one_body_side": {
+    "idx": 87,
+    "traduccion": "Debilidad en un lado del cuerpo"
+  },
+  "loss_of_smell": {
+    "idx": 88,
+    "traduccion": "Pérdida del olfato"
+  },
+  "bladder_discomfort": {
+    "idx": 89,
+    "traduccion": "Molestia en la vejiga"
+  },
+  "foul_smell_of_urine": {
+    "idx": 90,
+    "traduccion": "Orina con mal olor"
+  },
+  "continuous_feel_of_urine": {
+    "idx": 91,
+    "traduccion": "Sensación continua de orinar"
+  },
+  "passage_of_gases": {
+    "idx": 92,
+    "traduccion": "Gases"
+  },
+  "internal_itching": {
+    "idx": 93,
+    "traduccion": "Picazón interna"
+  },
+  "toxic_look_(typhos)": {
+    "idx": 94,
+    "traduccion": "Apariencia tóxica (tifoidea)"
+  },
+  "depression": {
+    "idx": 95,
+    "traduccion": "Depresión"
+  },
+  "irritability": {
+    "idx": 96,
+    "traduccion": "Irritabilidad"
+  },
+  "muscle_pain": {
+    "idx": 97,
+    "traduccion": "Dolor muscular"
+  },
+  "altered_sensorium": {
+    "idx": 98,
+    "traduccion": "Alteración de los sentidos"
+  },
+  "red_spots_over_body": {
+    "idx": 99,
+    "traduccion": "Manchas rojas en el cuerpo"
+  },
+  "belly_pain": {
+    "idx": 100,
+    "traduccion": "Dolor en la barriga"
+  },
+  "abnormal_menstruation": {
+    "idx": 101,
+    "traduccion": "Menstruación anormal"
+  },
+  "dischromic_patches": {
+    "idx": 102,
+    "traduccion": "Manchas decoloradas "
+  },
+  "watering_from_eyes": {
+    "idx": 103,
+    "traduccion": "Lagrimeo"
+  },
+  "increased_appetite": {
+    "idx": 104,
+    "traduccion": "Aumento del apetito"
+  },
+  "polyuria": {
+    "idx": 105,
+    "traduccion": "Poliuria (orina excesiva)"
+  },
+  "family_history": {
+    "idx": 106,
+    "traduccion": "Historial familiar"
+  },
+  "mucoid_sputum": {
+    "idx": 107,
+    "traduccion": "Esputo mucoso"
+  },
+  "rusty_sputum": {
+    "idx": 108,
+    "traduccion": "Esputo oxidado"
+  },
+  "lack_of_concentration": {
+    "idx": 109,
+    "traduccion": "Falta de concentración"
+  },
+  "visual_disturbances": {
+    "idx": 110,
+    "traduccion": "Alteraciones visuales"
+  },
+  "receiving_blood_transfusion": {
+    "idx": 111,
+    "traduccion": "Recibir transfusiones de sangre"
+  },
+  "receiving_unsterile_injections": {
+    "idx": 112,
+    "traduccion": "Recibir inyecciones no esterilizadas"
+  },
+  "coma": {
+    "idx": 113,
+    "traduccion": "Coma"
+  },
+  "stomach_bleeding": {
+    "idx": 114,
+    "traduccion": "Sangrado en el estómago"
+  },
+  "distention_of_abdomen": {
+    "idx": 115,
+    "traduccion": "Distensión abdominal"
+  },
+  "history_of_alcohol_consumption": {
+    "idx": 116,
+    "traduccion": "Consumo de alcohol en la historia médica"
+  },
+  "blood_in_sputum": {
+    "idx": 117,
+    "traduccion": "Sangre en el esputo"
+  },
+  "prominent_veins_on_calf": {
+    "idx": 118,
+    "traduccion": "Venas prominentes en la pantorrilla"
+  },
+  "palpitations": {
+    "idx": 119,
+    "traduccion": "Palpitaciones"
+  },
+  "painful_walking": {
+    "idx": 120,
+    "traduccion": "Dolor al caminar"
+  },
+  "pus_filled_pimples": {
+    "idx": 121,
+    "traduccion": "Granos llenos de pus"
+  },
+  "blackheads": {
+    "idx": 122,
+    "traduccion": "Puntos negros"
+  },
+  "scurring": {
+    "idx": 123,
+    "traduccion": "Costras"
+  },
+  "skin_peeling": {
+    "idx": 124,
+    "traduccion": "Piel descamada"
+  },
+  "silver_like_dusting": {
+    "idx": 125,
+    "traduccion": "Descamación similar a polvo plateado"
+  },
+  "small_dents_in_nails": {
+    "idx": 126,
+    "traduccion": "Pequeñas hendiduras en las uñas"
+  },
+  "inflammatory_nails": {
+    "idx": 127,
+    "traduccion": "Uñas inflamadas"
+  },
+  "blister": {
+    "idx": 128,
+    "traduccion": "Ampollas"
+  },
+  "red_sore_around_nose": {
+    "idx": 129,
+    "traduccion": "Herida roja alrededor de la nariz"
+  },
+  "yellow_crust_ooze": {
+    "idx": 130,
+    "traduccion": "Costra amarilla supurante"
+  }
+}
