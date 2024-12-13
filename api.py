@@ -18,14 +18,11 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-
 with open("diseases_names.txt") as file:
     diseases_names = np.array([line.replace('\n', '') for line in file.readlines()])
 
-
 model = xgb.XGBClassifier()
 model.load_model("model.bin")
-
 
 def make_inference(user_input):
     temp_input = np.array([False  for _ in range(131)])
@@ -37,13 +34,6 @@ def make_inference(user_input):
 
 class SymptomList(BaseModel):
     symptom_list: List[int]
-
-@app.get("/")
-def read_root():
-    return {"Hello": "World"}
-
-
-
 
 @app.post("/inference")
 def read_inference(symptoms: SymptomList):
