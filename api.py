@@ -2,14 +2,11 @@ from typing import List
 from fastapi import FastAPI
 from pydantic import BaseModel
 from fastapi.middleware.cors import CORSMiddleware
-
-
 import xgboost as xgb
 import numpy as np
+
 app = FastAPI()
-
 origins = ["*"]
-
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
